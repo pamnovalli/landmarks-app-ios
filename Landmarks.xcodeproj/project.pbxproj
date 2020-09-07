@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B3595B642506D43F00A36DC3 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3595B632506D43F00A36DC3 /* UserData.swift */; };
 		B37F7CD02505A9BC00B408BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B37F7CCF2505A9BC00B408BA /* AppDelegate.swift */; };
 		B37F7CD22505A9BC00B408BA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B37F7CD12505A9BC00B408BA /* SceneDelegate.swift */; };
 		B37F7CD42505A9BC00B408BA /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B37F7CD32505A9BC00B408BA /* LandmarkDetail.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B3595B632506D43F00A36DC3 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		B37F7CCC2505A9BC00B408BA /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B37F7CCF2505A9BC00B408BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B37F7CD12505A9BC00B408BA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				B37F7CEA2505E20500B408BA /* Models */,
 				B37F7CEF2505E20D00B408BA /* Resources */,
 				B37F7CD72505A9BE00B408BA /* Preview Content */,
+				B3595B632506D43F00A36DC3 /* UserData.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				B37F7CE62505C68100B408BA /* MapView.swift in Sources */,
 				B37F7CD22505A9BC00B408BA /* SceneDelegate.swift in Sources */,
 				B37F7D0B2505E37700B408BA /* LandmarkRow.swift in Sources */,
+				B3595B642506D43F00A36DC3 /* UserData.swift in Sources */,
 				B37F7CD42505A9BC00B408BA /* LandmarkDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
